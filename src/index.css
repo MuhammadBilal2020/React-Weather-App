@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: rgb(213, 212, 212);
+}
+
+.display{
+  background-color: black;
+  box-shadow: -1px -1px 10px 1px rebeccapurple;
+}
